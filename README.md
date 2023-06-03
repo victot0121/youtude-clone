@@ -2,7 +2,7 @@
 
 This is a YouTube clone project that aims to replicate the basic functionalities and design of the popular video-sharing platform.
 
- link : https://youtude-clone.vercel.app/video/FhgLGNmzbys
+ link : https://youtude-clone.vercel.app/
 
 ## Features
 - ability to search different videos 
